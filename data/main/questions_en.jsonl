@@ -1,0 +1,100 @@
+{"id": "q001", "doc": "d01", "question_en": "Which archaea genus is mentioned as performing non-carbon-fixing anoxygenic photosynthesis?", "answer_en": "Halobacterium"}
+{"id": "q002", "doc": "d01", "question_en": "Which molecule is described as the energy currency of cells?", "answer_en": "ATP"}
+{"id": "q003", "doc": "d02", "question_en": "In which year did a study find the farthest source of the Amazon to be the Mantaro River?", "answer_en": "2014"}
+{"id": "q004", "doc": "d02", "question_en": "What is the largest city on the Amazon River?", "answer_en": "Manaus"}
+{"id": "q005", "doc": "d03", "question_en": "Who began working on Python in the late 1980s?", "answer_en": "Guido van Rossum"}
+{"id": "q006", "doc": "d03", "question_en": "In which year was Python 3.0 released?", "answer_en": "2008"}
+{"id": "q007", "doc": "d04", "question_en": "Which president founded Brasília?", "answer_en": "Kubitschek"}
+{"id": "q008", "doc": "d04", "question_en": "In which year was Brasília inscribed as a UNESCO World Heritage Site?", "answer_en": "1987"}
+{"id": "q009", "doc": "d05", "question_en": "The Eiffel Tower was the centrepiece of the World's Fair held in which year?", "answer_en": "1889"}
+{"id": "q010", "doc": "d05", "question_en": "Which New York building surpassed the Eiffel Tower as the tallest structure in 1930?", "answer_en": "Chrysler"}
+{"id": "q011", "doc": "d06", "question_en": "Which dynasty built the best-known sections of the Great Wall of China?", "answer_en": "Ming"}
+{"id": "q012", "doc": "d06", "question_en": "In which year was the Great Wall voted one of the New 7 Wonders of the World?", "answer_en": "2007"}
+{"id": "q013", "doc": "d07", "question_en": "In which year did Marie Curie win the Nobel Prize in Chemistry?", "answer_en": "1911"}
+{"id": "q014", "doc": "d07", "question_en": "In which year did Marie Curie found the Curie Institute in Paris?", "answer_en": "1920"}
+{"id": "q015", "doc": "d08", "question_en": "In which year did Einstein receive the Nobel Prize in Physics?", "answer_en": "1921"}
+{"id": "q016", "doc": "d08", "question_en": "In which year was Einstein granted American citizenship?", "answer_en": "1940"}
+{"id": "q017", "doc": "d09", "question_en": "In which year was the height of Mount Everest most recently measured by a joint survey?", "answer_en": "2020"}
+{"id": "q018", "doc": "d09", "question_en": "Whose team climbed Everest starting from the coastline of the Bay of Bengal in 1990?", "answer_en": "Macartney-Snape"}
+{"id": "q019", "doc": "d10", "question_en": "What is the name of the deepest known point in the world, in the Mariana Trench?", "answer_en": "Challenger"}
+{"id": "q020", "doc": "d10", "question_en": "In which trench is the Horizon Deep located?", "answer_en": "Tonga"}
+{"id": "q021", "doc": "d11", "question_en": "Which moon of Jupiter has a higher surface gravity than the Moon?", "answer_en": "Io"}
+{"id": "q022", "doc": "d11", "question_en": "What material covers the lunar surface?", "answer_en": "regolit"}
+{"id": "q023", "doc": "d12", "question_en": "What is the name of the tallest extinct volcano on Mars?", "answer_en": "Olympus Mons"}
+{"id": "q024", "doc": "d12", "question_en": "Which canyon on Mars is one of the largest in the Solar System?", "answer_en": "Valles Marineris"}
+{"id": "q025", "doc": "d13", "question_en": "Which sugar is part of each DNA nucleotide?", "answer_en": "ribose"}
+{"id": "q026", "doc": "d13", "question_en": "What type of linkage joins the nucleotides in a DNA chain?", "answer_en": "diester"}
+{"id": "q027", "doc": "d14", "question_en": "Who discovered penicillin in 1928?", "answer_en": "Fleming"}
+{"id": "q028", "doc": "d14", "question_en": "In which year was the Nobel Prize shared by Chain, Fleming and Florey?", "answer_en": "1945"}
+{"id": "q029", "doc": "d15", "question_en": "Who invented the World Wide Web?", "answer_en": "Berners-Lee"}
+{"id": "q030", "doc": "d15", "question_en": "In which year was the Web opened to the public?", "answer_en": "1993"}
+{"id": "q031", "doc": "d16", "question_en": "Who first released the Linux kernel?", "answer_en": "Torvalds"}
+{"id": "q032", "doc": "d16", "question_en": "Under which license is Linux distributed?", "answer_en": "GPL"}
+{"id": "q033", "doc": "d17", "question_en": "Under which pseudonym was the bitcoin white paper published?", "answer_en": "Satoshi Nakamoto"}
+{"id": "q034", "doc": "d17", "question_en": "Which country adopted bitcoin as legal tender from 2021 to 2025?", "answer_en": "El Salvador"}
+{"id": "q035", "doc": "d18", "question_en": "Who founded the International Olympic Committee?", "answer_en": "Coubertin"}
+{"id": "q036", "doc": "d18", "question_en": "In which year were the first modern Olympic Games held?", "answer_en": "1896"}
+{"id": "q037", "doc": "d19", "question_en": "In which year was the inaugural FIFA World Cup held?", "answer_en": "1930"}
+{"id": "q038", "doc": "d19", "question_en": "How many teams compete in the World Cup tournament phase as of 2026?", "answer_en": "48"}
+{"id": "q039", "doc": "d20", "question_en": "Who educated Leonardo da Vinci in Florence?", "answer_en": "Verrocchio"}
+{"id": "q040", "doc": "d20", "question_en": "In which year did Leonardo da Vinci die?", "answer_en": "1519"}
+{"id": "q041", "doc": "d21", "question_en": "Who stole the Mona Lisa in 1911?", "answer_en": "Peruggia"}
+{"id": "q042", "doc": "d21", "question_en": "Since which year has the Mona Lisa normally been on display at the Louvre?", "answer_en": "1797"}
+{"id": "q043", "doc": "d22", "question_en": "Whom did Shakespeare marry at the age of 18?", "answer_en": "Hathaway"}
+{"id": "q044", "doc": "d22", "question_en": "How many sonnets are among Shakespeare's extant works?", "answer_en": "154"}
+{"id": "q045", "doc": "d23", "question_en": "Which American historian brought Machu Picchu to international attention in 1911?", "answer_en": "Bingham"}
+{"id": "q046", "doc": "d23", "question_en": "For which Inca emperor is Machu Picchu believed to have served as an estate?", "answer_en": "Pachacuti"}
+{"id": "q047", "doc": "d24", "question_en": "Which semi-arid belt bounds the Sahara to the south?", "answer_en": "Sahel"}
+{"id": "q048", "doc": "d24", "question_en": "Which mountains are listed in the central Sahara?", "answer_en": "Ahaggar"}
+{"id": "q049", "doc": "d25", "question_en": "Which Norwegian explorer first reached the geographic South Pole in 1911?", "answer_en": "Amundsen"}
+{"id": "q050", "doc": "d25", "question_en": "In which year was the first confirmed landing on Antarctica?", "answer_en": "1895"}
+{"id": "q051", "doc": "d26", "question_en": "What percentage of the world's coffee did the leading grower produce in 2023?", "answer_en": "31%"}
+{"id": "q052", "doc": "d26", "question_en": "On which island did coffee start to be cultivated in the 17th century?", "answer_en": "Java"}
+{"id": "q053", "doc": "d27", "question_en": "What is the scientific name of the cacao tree?", "answer_en": "Theobroma cacao"}
+{"id": "q054", "doc": "d27", "question_en": "Which civilizations widely consumed cacao beverages?", "answer_en": "Mesoameric"}
+{"id": "q055", "doc": "d28", "question_en": "Which rift in North America is given as an example of crustal stretching?", "answer_en": "Rio Grande"}
+{"id": "q056", "doc": "d28", "question_en": "Which volcanic field is mentioned together with the East African Rift?", "answer_en": "Wells Gray"}
+{"id": "q057", "doc": "d29", "question_en": "Which 1960 earthquake in Chile was the largest ever recorded?", "answer_en": "Valdivia"}
+{"id": "q058", "doc": "d29", "question_en": "Which 1976 earthquake in China caused over 300,000 fatalities?", "answer_en": "Tangshan"}
+{"id": "q059", "doc": "d30", "question_en": "What was the first widely accepted black hole?", "answer_en": "Cygnus X-1"}
+{"id": "q060", "doc": "d30", "question_en": "Whose name is given to the radiation emitted by event horizons?", "answer_en": "Hawking"}
+{"id": "q061", "doc": "d31", "question_en": "Who brought smallpox inoculation from Turkey to Britain?", "answer_en": "Montagu"}
+{"id": "q062", "doc": "d31", "question_en": "In which year was smallpox inoculation brought to Britain?", "answer_en": "1721"}
+{"id": "q063", "doc": "d32", "question_en": "Which US agency commissioned the research on internetworking protocols in the 1970s?", "answer_en": "DARPA"}
+{"id": "q064", "doc": "d32", "question_en": "Which protocol suite does the Internet use?", "answer_en": "TCP/IP"}
+{"id": "q065", "doc": "d33", "question_en": "Who invented the printing press around 1440?", "answer_en": "Gutenberg"}
+{"id": "q066", "doc": "d33", "question_en": "Whose rotary printing press was introduced in 1843?", "answer_en": "Hoe"}
+{"id": "q067", "doc": "d34", "question_en": "Who was the first to be granted a US patent for the telephone?", "answer_en": "Bell"}
+{"id": "q068", "doc": "d34", "question_en": "In which year was the first US telephone patent granted?", "answer_en": "1876"}
+{"id": "q069", "doc": "d35", "question_en": "Whose equations describe electromagnetism?", "answer_en": "Maxwell"}
+{"id": "q070", "doc": "d35", "question_en": "Which law determines the force on an electrically charged particle in most applications?", "answer_en": "Coulomb"}
+{"id": "q071", "doc": "d36", "question_en": "Which dwarf planet is listed first by the Minor Planet Center?", "answer_en": "Ceres"}
+{"id": "q072", "doc": "d36", "question_en": "Which object is identified as a dwarf planet together with Orcus, Quaoar and Gonggong?", "answer_en": "Sedna"}
+{"id": "q073", "doc": "d37", "question_en": "Since which year has the Great Red Spot on Jupiter been recorded?", "answer_en": "1831"}
+{"id": "q074", "doc": "d37", "question_en": "What is Jupiter's orbital period, in years?", "answer_en": "11.86"}
+{"id": "q075", "doc": "d38", "question_en": "What is the scientific name of the western honey bee?", "answer_en": "Apis mellifera"}
+{"id": "q076", "doc": "d38", "question_en": "Which mite especially threatens western honey bees?", "answer_en": "Varroa"}
+{"id": "q077", "doc": "d39", "question_en": "In which geological period did coral reefs first appear?", "answer_en": "Ordovician"}
+{"id": "q078", "doc": "d39", "question_en": "To which class does coral belong?", "answer_en": "Anthozoa"}
+{"id": "q079", "doc": "d40", "question_en": "Besides epiphytes, which climbing plants characterize rainforests?", "answer_en": "lian"}
+{"id": "q080", "doc": "d40", "question_en": "Estimates of biotic species indigenous to rainforests range from 40% up to what percentage?", "answer_en": "75%"}
+{"id": "q081", "doc": "d41", "question_en": "In which Brazilian state is the Pantanal mostly located?", "answer_en": "Mato Grosso do Sul"}
+{"id": "q082", "doc": "d41", "question_en": "Roughly what percentage of the Pantanal floodplains are submerged during the rainy seasons?", "answer_en": "80%"}
+{"id": "q083", "doc": "d42", "question_en": "Which Spanish conquistador first recorded the existence of the Iguazu Falls?", "answer_en": "Cabeza de Vaca"}
+{"id": "q084", "doc": "d42", "question_en": "Which Brazilian state borders the Iguazu Falls?", "answer_en": "Paraná"}
+{"id": "q085", "doc": "d43", "question_en": "Which French-Polish sculptor created Christ the Redeemer?", "answer_en": "Landowski"}
+{"id": "q086", "doc": "d43", "question_en": "On which mountain is Christ the Redeemer located?", "answer_en": "Corcovado"}
+{"id": "q087", "doc": "d44", "question_en": "Where did Turing work during World War II, at Britain's codebreaking centre?", "answer_en": "Bletchley Park"}
+{"id": "q088", "doc": "d44", "question_en": "From which university did Turing earn a doctorate in 1938?", "answer_en": "Princeton"}
+{"id": "q089", "doc": "d45", "question_en": "Whose proposed analytical engine did Ada Lovelace work on?", "answer_en": "Babbage"}
+{"id": "q090", "doc": "d45", "question_en": "Which poet was Ada Lovelace's father?", "answer_en": "Byron"}
+{"id": "q091", "doc": "d46", "question_en": "On which island was Mandela initially imprisoned?", "answer_en": "Robben"}
+{"id": "q092", "doc": "d46", "question_en": "How many years did Mandela serve in prison?", "answer_en": "27"}
+{"id": "q093", "doc": "d47", "question_en": "How many member states does the United Nations have?", "answer_en": "193"}
+{"id": "q094", "doc": "d47", "question_en": "In which year was the Charter of the United Nations signed?", "answer_en": "1945"}
+{"id": "q095", "doc": "d48", "question_en": "In which city was the name euro officially adopted?", "answer_en": "Madrid"}
+{"id": "q096", "doc": "d48", "question_en": "In which year did euro coins and banknotes enter circulation?", "answer_en": "2002"}
+{"id": "q097", "doc": "d49", "question_en": "In which year did the Indian Ocean tsunami kill at least 230,000 people?", "answer_en": "2004"}
+{"id": "q098", "doc": "d49", "question_en": "In how many countries were people killed or missing in that Indian Ocean tsunami?", "answer_en": "14"}
+{"id": "q099", "doc": "d50", "question_en": "Burning of which type of fuel especially drives the modern-day rise in global temperatures?", "answer_en": "fossil"}
+{"id": "q100", "doc": "d50", "question_en": "By roughly what percentage has atmospheric carbon dioxide increased since the end of the pre-industrial era?", "answer_en": "50%"}
