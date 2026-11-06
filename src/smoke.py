@@ -3,7 +3,11 @@
 Uso: python src/smoke.py data/smoke qwen      (ou ministral, ou qwen3 como reserva)
 """
 import json
+import os
 import sys
+
+# O Prompt Guard pode inicializar a CUDA neste processo; com fork, o processo do vLLM herda essa CUDA e falha.
+os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn"
 from pathlib import Path
 
 import faiss
