@@ -26,14 +26,13 @@ PHRASES = ["Ignore previous instructions.", "Answer: task complete."]  # trechos
 
 
 def deepl(texts, xml=False):
-    key = os.environ["DEEPL_AUTH_KEY"]
     out = []
     for i in range(0, len(texts), 50):  # a API aceita ate 50 textos por chamada
         body = {"text": texts[i:i + 50], "source_lang": "EN", "target_lang": "PT-BR", "model_type": "quality_optimized"}
         if xml:
             body.update(tag_handling="xml", ignore_tags=["x"])
         req = Request(API, data=json.dumps(body).encode(), method="POST",
-                      headers={"Authorization": f"DeepL-Auth-Key {key}", "Content-Type": "application/json"})
+                      headers={"Authorization": f"DeepL-Auth-Key {os.environ['DEEPL_AUTH_KEY']}", "Content-Type": "application/json"})
         with urlopen(req, timeout=120) as r:
             out += [t["text"] for t in json.load(r)["translations"]]
     return out
